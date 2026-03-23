@@ -16,7 +16,7 @@ RUN pip install --no-cache-dir \
     opencv-python \
     mediapipe \
     numpy \
-    scipy
+    scipy \
     python-multipart
 
 EXPOSE 8000
