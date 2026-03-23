@@ -17,6 +17,7 @@ RUN pip install --no-cache-dir \
     mediapipe \
     numpy \
     scipy
+    python-multipart
 
 EXPOSE 8000
 
